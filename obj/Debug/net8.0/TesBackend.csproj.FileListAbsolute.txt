@@ -1,0 +1,14 @@
+C:\Users\richa\DIANTARER PERMATA AJE\Programming\theo\Scheduler\Backend\TesBackend\bin\Debug\net8.0\TesBackend.exe
+C:\Users\richa\DIANTARER PERMATA AJE\Programming\theo\Scheduler\Backend\TesBackend\bin\Debug\net8.0\TesBackend.deps.json
+C:\Users\richa\DIANTARER PERMATA AJE\Programming\theo\Scheduler\Backend\TesBackend\bin\Debug\net8.0\TesBackend.runtimeconfig.json
+C:\Users\richa\DIANTARER PERMATA AJE\Programming\theo\Scheduler\Backend\TesBackend\bin\Debug\net8.0\TesBackend.dll
+C:\Users\richa\DIANTARER PERMATA AJE\Programming\theo\Scheduler\Backend\TesBackend\bin\Debug\net8.0\TesBackend.pdb
+C:\Users\richa\DIANTARER PERMATA AJE\Programming\theo\Scheduler\Backend\TesBackend\obj\Debug\net8.0\TesBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\DIANTARER PERMATA AJE\Programming\theo\Scheduler\Backend\TesBackend\obj\Debug\net8.0\TesBackend.AssemblyInfoInputs.cache
+C:\Users\richa\DIANTARER PERMATA AJE\Programming\theo\Scheduler\Backend\TesBackend\obj\Debug\net8.0\TesBackend.AssemblyInfo.cs
+C:\Users\richa\DIANTARER PERMATA AJE\Programming\theo\Scheduler\Backend\TesBackend\obj\Debug\net8.0\TesBackend.csproj.CoreCompileInputs.cache
+C:\Users\richa\DIANTARER PERMATA AJE\Programming\theo\Scheduler\Backend\TesBackend\obj\Debug\net8.0\TesBackend.dll
+C:\Users\richa\DIANTARER PERMATA AJE\Programming\theo\Scheduler\Backend\TesBackend\obj\Debug\net8.0\refint\TesBackend.dll
+C:\Users\richa\DIANTARER PERMATA AJE\Programming\theo\Scheduler\Backend\TesBackend\obj\Debug\net8.0\TesBackend.pdb
+C:\Users\richa\DIANTARER PERMATA AJE\Programming\theo\Scheduler\Backend\TesBackend\obj\Debug\net8.0\TesBackend.genruntimeconfig.cache
+C:\Users\richa\DIANTARER PERMATA AJE\Programming\theo\Scheduler\Backend\TesBackend\obj\Debug\net8.0\ref\TesBackend.dll
